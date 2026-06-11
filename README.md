@@ -1,6 +1,6 @@
 # Order It Up ⚡ — In-Memory Order Matching Engine
 
-> **Senior Fintech Engineering Project** — A lightweight, highly reliable, thread-safe In-Memory Order Matching Engine built with Java 17 + Spring Boot 3.
+> **Fintech Engineering Project** — A lightweight, highly reliable, thread-safe In-Memory Order Matching Engine built with Java 17 + Spring Boot 3.
 
 ---
 
