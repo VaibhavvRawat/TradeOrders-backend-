@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: order-matching-engine
+  jackson:
+    serialization:
+      indent-output: true
+
+logging:
+  level:
+    com.groww.engine: DEBUG
+  pattern:
+    console: "%d{HH:mm:ss.SSS} %-5level %logger{30} - %msg%n"
